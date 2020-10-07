@@ -1,0 +1,2 @@
+C:\Users\wilko\source\repos\HSP-Vorlage-Fibonacci\HSP-Vorlage-Fibonacci\obj\Debug\HSP-Vorlage-Fibonacci.csprojAssemblyReference.cache
+C:\Users\wilko\source\repos\HSP-Vorlage-Fibonacci\HSP-Vorlage-Fibonacci\obj\Debug\HSP-Vorlage-Fibonacci.csproj.CoreCompileInputs.cache
