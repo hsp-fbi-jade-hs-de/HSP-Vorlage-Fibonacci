@@ -11,6 +11,7 @@ namespace HSP_Vorlage_Fibonacci
         public string FibonacciNumbers(int input)
         {
 
+            string fibonacciNumbers = "";
             // FibonacciCode hier
             throw new NotImplementedException();
 
