@@ -15,4 +15,4 @@ Wenn Sie fertig sind, dann
 * Starten Sie die Tests innerhalb des Test-Explorers
 
 
-Diesen Ablauf können Sie auch [in diesem Video](https://e.video-cdn.net/share?video-id=DanEHo-4AXmYUHiQa4s7ji&player-id=EQXSwJteHsd-jonvxZMcPQ&channel-id=88624) nachvollziehen.
+Diesen Ablauf können Sie auch mit Hilfe des Videos "Aufgabensammlung Einstieg" nachvollziehen
